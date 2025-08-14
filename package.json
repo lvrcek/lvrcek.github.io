@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo --minify"
+  },
+  "devDependencies": {
+    "postcss-cli": "^10.1.0",
+    "autoprefixer": "^10.0.2"
+  }
+}
