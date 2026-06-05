@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Lovro Vrček</title>
-    <link>https://lvrcek.github.io/publication_types/article-journal/</link>
-      <atom:link href="https://lvrcek.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lvrcek.github.io/media/icon_hu11629036598829689587.png</url>
+      <url>http://localhost:1313/media/icon_hu11629036598829689587.png</url>
       <title>Article-Journal</title>
-      <link>https://lvrcek.github.io/publication_types/article-journal/</link>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Geometric deep learning framework for de novo genome assembly</title>
-      <link>https://lvrcek.github.io/publication/gnnome/</link>
+      <link>http://localhost:1313/publication/gnnome/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://lvrcek.github.io/publication/gnnome/</guid>
+      <guid>http://localhost:1313/publication/gnnome/</guid>
       <description></description>
     </item>
     

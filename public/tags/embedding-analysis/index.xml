@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embedding Analysis | Lovro Vrček</title>
-    <link>https://lvrcek.github.io/tags/embedding-analysis/</link>
-      <atom:link href="https://lvrcek.github.io/tags/embedding-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/embedding-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/embedding-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Embedding Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lvrcek.github.io/media/icon_hu11629036598829689587.png</url>
+      <url>http://localhost:1313/media/icon_hu11629036598829689587.png</url>
       <title>Embedding Analysis</title>
-      <link>https://lvrcek.github.io/tags/embedding-analysis/</link>
+      <link>http://localhost:1313/tags/embedding-analysis/</link>
     </image>
     
     <item>
       <title>Entropy, Disagreement, and the Limits of Foundation Models in Genomics</title>
-      <link>https://lvrcek.github.io/publication/gfms/</link>
+      <link>http://localhost:1313/publication/gfms/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://lvrcek.github.io/publication/gfms/</guid>
+      <guid>http://localhost:1313/publication/gfms/</guid>
       <description>&lt;!--
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 

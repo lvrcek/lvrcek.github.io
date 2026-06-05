@@ -2,167 +2,167 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lvrcek.github.io/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication/dipgnnome/</loc>
+    <loc>http://localhost:1313/publication/dipgnnome/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/genome-assembly/</loc>
+    <loc>http://localhost:1313/tags/genome-assembly/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/geometric-deep-learning/</loc>
+    <loc>http://localhost:1313/tags/geometric-deep-learning/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication/decision/</loc>
+    <loc>http://localhost:1313/publication/decision/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication_types/article/</loc>
+    <loc>http://localhost:1313/publication_types/article/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/embedding-analysis/</loc>
+    <loc>http://localhost:1313/tags/embedding-analysis/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication/gfms/</loc>
+    <loc>http://localhost:1313/publication/gfms/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/genomic-foundation-models/</loc>
+    <loc>http://localhost:1313/tags/genomic-foundation-models/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/publication/gnnome/</loc>
+    <loc>http://localhost:1313/publication/gnnome/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/post/get-started/</loc>
+    <loc>http://localhost:1313/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/academic/</loc>
+    <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/project/pandas/</loc>
+    <loc>http://localhost:1313/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/project/pytorch/</loc>
+    <loc>http://localhost:1313/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/project/scikit/</loc>
+    <loc>http://localhost:1313/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/second-brain/</loc>
+    <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/post/second-brain/</loc>
+    <loc>http://localhost:1313/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/post/data-visualization/</loc>
+    <loc>http://localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/post/teach-courses/</loc>
+    <loc>http://localhost:1313/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/teaching/js/</loc>
+    <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/teaching/python/</loc>
+    <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/post/project-management/</loc>
+    <loc>http://localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lvrcek.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geometric Deep Learning | Lovro Vrček</title>
-    <link>https://lvrcek.github.io/tags/geometric-deep-learning/</link>
-      <atom:link href="https://lvrcek.github.io/tags/geometric-deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/geometric-deep-learning/</link>
+      <atom:link href="http://localhost:1313/tags/geometric-deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Geometric Deep Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lvrcek.github.io/media/icon_hu11629036598829689587.png</url>
+      <url>http://localhost:1313/media/icon_hu11629036598829689587.png</url>
       <title>Geometric Deep Learning</title>
-      <link>https://lvrcek.github.io/tags/geometric-deep-learning/</link>
+      <link>http://localhost:1313/tags/geometric-deep-learning/</link>
     </image>
     
     <item>
       <title>DipGNNome: Diploid de Novo Genome Assembly with Geometric Deep Learning and Beam-Search</title>
-      <link>https://lvrcek.github.io/publication/dipgnnome/</link>
+      <link>http://localhost:1313/publication/dipgnnome/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://lvrcek.github.io/publication/dipgnnome/</guid>
+      <guid>http://localhost:1313/publication/dipgnnome/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>GNNome-Decision: Enhancing GNN Training for de Novo Genome Assembly by Targeting Decision Nodes</title>
-      <link>https://lvrcek.github.io/publication/decision/</link>
+      <link>http://localhost:1313/publication/decision/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://lvrcek.github.io/publication/decision/</guid>
+      <guid>http://localhost:1313/publication/decision/</guid>
       <description>&lt;!-- 
 
 
@@ -96,9 +96,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Geometric deep learning framework for de novo genome assembly</title>
-      <link>https://lvrcek.github.io/publication/gnnome/</link>
+      <link>http://localhost:1313/publication/gnnome/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://lvrcek.github.io/publication/gnnome/</guid>
+      <guid>http://localhost:1313/publication/gnnome/</guid>
       <description></description>
     </item>
     

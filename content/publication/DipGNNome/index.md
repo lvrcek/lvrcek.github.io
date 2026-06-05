@@ -33,7 +33,7 @@ publication_short: In *RECOMB-CG*
 abstract: De novo genome assembly remains a central challenge in computational biology, particularly for diploid genomes where maternal and paternal haplotypes must be accurately resolved. Existing assemblers achieve impressive results through carefully designed heuristics, yet modern deep learning methods remain largely unexplored in the diploid setting. We present DipGNNome, the first deep learning–based framework for diploid de novo genome assembly. Our approach formulates genome assembly as an edge classification and graph traversal problem, given haplotype-aware assembly graphs. We train a graph neural network (GNN) to guide contig construction as the layout phase in an Overlap-Layout-Consensus genome assembly pipeline. To enable this, we establish a novel pipeline for generating diploid graphs with ground-truth edge labels, providing the first systematic way to produce training data for machine learning models in this domain. This framework creates a foundation for applying and extending graph-based deep learning to diploid assembly. DipGNNome creates assemblies comparable to SotA and demonstrates the feasibility of deep learning for diploid assembly and introduces a paradigm that bridges algorithmic genomics with graph representation learning.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
   - Geometric Deep Learning
@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
