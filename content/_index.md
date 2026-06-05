@@ -9,43 +9,69 @@ design:
   spacing: "6rem"
 
 sections:
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
+      spacing:
+        padding: ['2rem', 0, '6rem', 0]
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: stacked-peaks.svg
+        #   filters:
+        #     brightness: 1.0
+        #   size: cover
+        #   position: center
+        #   parallax: false
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        This is a test.
-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My main body of work centers on genome assembly, the computational problem of reconstructing a complete genome sequence from raw sequencing reads. I developed GNNome, a graph neural network framework that reframes assembly as a learning problem on assembly graphs, achieving substantial improvements over state-of-the-art methods on human and other genomes. More recently this has extended to diploid assembly, where the challenge is to resolve not just one but two distinct haplotypes simultaneously.
         
-        Please reach out to collaborate 😃
+        Alongside this, I've become increasingly interested in genomic foundation models and their limitations: do they actually learn meaningful biology? In recent work we show—through entropy and disagreement analysis—that DNA language models behave fundamentally differently from their text counterparts, raising sharp questions about what pretraining on raw sequence actually captures. This field suffers from a lack of honest benchmarks and rigorous failure analysis, which is a direction I intend to keep working on.
     design:
       columns: '1'
+
+  - block: markdown
+    id: news
+    content:
+      title: 'News'
+      text: |-
+        <div class="news-list">
+          <div class="news-item">
+            <span class="news-date">Jun 2026</span>
+            <span class="news-text">Finally decided to build this website</span>
+          </div>
+          <div class="news-item">
+            <span class="news-date">Apr 2026</span>
+            <span class="news-text">Poster presentation at LMRL workshop, ICLR 2026</span>
+          </div>
+          <div class="news-item">
+            <span class="news-date">Jun 2025</span>
+            <span class="news-text">Started as Postdoctoral Researcher at Genome Institute of Singapore, A*STAR</span>
+          </div>
+          <div class="news-item">
+            <span class="news-date">Jun 2025</span>
+            <span class="news-text">Defended PhD thesis at University of Zagreb</span>
+          </div>
+        </div>
+    design:
+      columns: '1'
+
   - block: collection
-    id: papers
+    id: featured
     content:
       title: Featured Publications
       filters:
@@ -55,55 +81,51 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ['6rem', 0, '2rem', 0]
+
+
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+
+  # - block: collection
+  #   id: blogs
+  #   content:
+  #     title: Blogs
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     # spacing:
+  #     #   padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

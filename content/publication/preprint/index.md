@@ -1,7 +1,9 @@
 ---
+draft: true
 title: "An example preprint / working paper"
 authors:
 - admin
+
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -60,7 +62,9 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
 ---
+
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
