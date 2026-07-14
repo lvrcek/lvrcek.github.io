@@ -61,17 +61,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://dabar.srce.hr/en/object/fer:14433'
-  # - area: BSc Computer Science
-  #   institution: University of Zagreb, Croatia
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.4/4.0
+
+  - area: BSc Computer Science
+    institution: University of Zagreb, Croatia
+    date_start: 2016-10-01
+    date_end: 2019-07-01
+    summary: |
+      GPA: 4.6/5.0
       
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      To get a deeper understanding of Computer Science, and particularly AI, I enrolled into a Bachelor's CS program. For my Bachelor's thesis, I worked on developing a DNA sequence polishing tool based on convolutional neural networks (CNNs). Supervised by [Mile Šikić](https://scholar.google.com/citations?user=EK7apmcAAAAJ&hl=en). My desire to learn more about fundamentals of CS led to a funny situation where, during the 2018/2019 academic year, I was simultaneously a Bachelor's and a PhD student at the same department!
+    button:
+      text: 'Read Thesis'
+      url: 'https://repozitorij.fer.unizg.hr/en/object/fer:6529'
+  
   - area: Integrated BSc and MSc in Physics
     institution: University of Zagreb, Croatia
     date_start: 2013-10-01

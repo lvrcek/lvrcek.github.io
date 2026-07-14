@@ -14,9 +14,9 @@
     
     <item>
       <title>DipGNNome: Diploid de Novo Genome Assembly with Geometric Deep Learning and Beam-Search</title>
-      <link>http://localhost:1313/publication/dipgnnome/</link>
+      <link>http://localhost:1313/publications/dipgnnome/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dipgnnome/</guid>
+      <guid>http://localhost:1313/publications/dipgnnome/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>GNNome-Decision: Enhancing GNN Training for de Novo Genome Assembly by Targeting Decision Nodes</title>
-      <link>http://localhost:1313/publication/decision/</link>
+      <link>http://localhost:1313/publications/decision/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/decision/</guid>
+      <guid>http://localhost:1313/publications/decision/</guid>
       <description>&lt;!-- 
 
 

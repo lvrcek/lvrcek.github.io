@@ -14,9 +14,9 @@
     
     <item>
       <title>Entropy, Disagreement, and the Limits of Foundation Models in Genomics</title>
-      <link>http://localhost:1313/publication/gfms/</link>
+      <link>http://localhost:1313/publications/gfms/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gfms/</guid>
+      <guid>http://localhost:1313/publications/gfms/</guid>
       <description>&lt;!--
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 

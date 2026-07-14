@@ -1,0 +1,12 @@
+<div class="max-w-prose print:hidden">
+  {{/* Do not show tag badges on publication pages. */}}
+  {{ if ne .Section "publications" }}
+    {{ partial "tags" . }}
+  {{ end }}
+
+  {{ partial "components/page_sharer" . }}
+  {{ partial "page_author" . }}
+  {{ partial "components/next-in-series" . }}
+  {{ partial "page_related" . }}
+  {{ partial "comments" . }}
+</div>

@@ -14,7 +14,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["workshop"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Poster presentation at *[Learning Meaningful Representations of Life workshop](https://www.lmrl.org/) @ ICLR 2026*"
